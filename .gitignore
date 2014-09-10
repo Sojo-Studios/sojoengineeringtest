@@ -1,0 +1,20 @@
+# Eclipse #
+.classpath
+.project
+build/
+
+# IntelliJ #
+.idea
+.idea_modules
+*.iml
+
+# sbt #
+target/
+project/project/
+src/main/webapp/WEB-INF/lib/
+src/main/webapp/META-INF/
+/bin
+lib_managed/
+.history
+test-output/
+.cache
